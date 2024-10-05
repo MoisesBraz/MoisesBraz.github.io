@@ -205,13 +205,14 @@ main .sobre {
 
 .sobre_conteudo {
     animation: sobreSecao .6s ease-in-out forwards;
-    grid-column: 2/-1;
+    grid-column: 1/-1;
     display: grid;
     color: #707070;
     grid-template-columns: 1fr 1fr;
 }
 
 .sobre_texto {
+    text-align: justify;
     display: grid;
     grid-column: 1/-1;
     grid-template-columns: 1fr 1fr;
