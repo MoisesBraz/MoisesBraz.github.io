@@ -298,7 +298,7 @@ main .sobre {
         background-image: url(img/IMG_0453.png);
         background-repeat: no-repeat;
         background-size: contain;
-        background-position: center;
+        background-position: center right;
     }
 
     header {
